@@ -1,7 +1,7 @@
 {
   "name": "staticfileserver",
   "version": "1.0.0",
-  "description": "A very simple HTML file server using Express."
+  "description": "A very simple HTML file server using Express.",
   "author": "nateliakte",
   "license": "ISC",
   "dependencies": {
