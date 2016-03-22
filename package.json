@@ -1,12 +1,9 @@
 {
-  "name": "staticfile",
+  "name": "staticfileserver",
   "version": "1.0.0",
-  "description": "A very simple HTML file server using Express.",
-  "main": "simpleServer.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "description": "A very simple HTML file server using Express."
   },
-  "author": "",
+  "author": "nateliakte",
   "license": "ISC",
   "dependencies": {
     "express": "^4.13.4"
